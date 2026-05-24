@@ -1,0 +1,132 @@
+{
+    "c2dictionary": true,
+    "data":
+    {
+        "allmissions": 18,
+
+        "mission1name": "collect_crys",
+        "missionmin1": 1,
+        "missionmax1": 2,
+        "missionscore1": 10,
+
+        "mission2name": "collect_ground",
+        "missionmin2": 1,
+        "missionmax2": 2,
+        "missionscore2": 5,
+
+        "mission3name": "collect_details",
+        "missionmin3": 1,
+        "missionmax3": 2,
+        "missionscore3": 12,
+
+        "mission4name": "collect_fruits",
+        "missionmin4": 1,
+        "missionmax4": 2,
+        "missionscore4": 5,
+
+        "mission5name": "collect_organic",
+        "missionmin5": 1,
+        "missionmax5": 2,
+        "missionscore5": 10,
+
+        "mission6name": "eco_plantsgrow",
+        "missionmin6": 1,
+        "missionmax6": 2,
+        "missionscore6": 25,
+
+        "mission7name": "eco_faunakill",
+        "missionmin7": 1,
+        "missionmax7": 2,
+        "missionscore7": 5,
+
+        "mission8name": "eco_infection",
+        "missionmin8": 1,
+        "missionmax8": 2,
+        "missionscore8": 15,
+
+        "mission9name": "eco_florakill",
+        "missionmin9": 1,
+        "missionmax9": 2,
+        "missionscore9": 5,
+
+        "mission10name": "rare_plant",
+        "missionmin10": 1,
+        "missionmax10": 2,
+        "missionscore10": 15,
+
+        "mission11name": "rare_detail",
+        "missionmin11": 1,
+        "missionmax11": 2,
+        "missionscore11": 20,
+
+        "mission12name": "rare_crystal",
+        "missionmin12": 1,
+        "missionmax12": 1,
+        "missionscore12": 0,
+
+        "mission13name": "data_weather",
+        "missionmin13": 1,
+        "missionmax13": 1,
+        "missionscore13": 0,
+
+        "mission14name": "data_flora",
+        "missionmin14": 1,
+        "missionmax14": 2,
+        "missionscore14": 5,
+
+        "mission15name": "data_fauna",
+        "missionmin15": 1,
+        "missionmax15": 2,
+        "missionscore15": 10,
+
+        "mission16name": "sample_precipication",
+        "missionmin16": 1,
+        "missionmax16": 1,
+        "missionscore16": 0,
+
+        "mission17name": "sample_volcano",
+        "missionmin17": 1,
+        "missionmax17": 2,
+        "missionscore17": 0,
+
+        "mission18name": "special_cultivation",
+        "missionmin18": 1,
+        "missionmax18": 1,
+        "missionscore18": 0,
+
+        "mission19name": "collect_hives",
+        "missionmin19": 1,
+        "missionmax19": 2,
+        "missionscore19": 10,
+
+        "curmission1": 0,
+        "sumbmission1": "/",
+        "curmission1name": "",
+        "progressmission1": 0,
+        "needmission1": 0,
+
+        "curmission2": 0,
+        "sumbmission2": "/",
+        "curmission2name": "",
+        "progressmission2": 0,
+        "needmission2": 0,
+
+        "curmission3": 0,
+        "sumbmission3": "/",
+        "curmission3name": "",
+        "progressmission3": 0,
+        "needmission3": 0,
+
+        "curmission4": 0,
+        "sumbmission4": "/",
+        "curmission4name": "",
+        "progressmission4": 0,
+        "needmission4": 0,
+
+        "curmission5": 0,
+        "sumbmission5": "/",
+        "curmission5name": "",
+        "progressmission5": 0,
+        "needmission5": 0
+    }
+}
